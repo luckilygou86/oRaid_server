@@ -1,0 +1,6 @@
+
+oriad创建和dataserver的连接，进行socket传输把文件的数据传送到本地
+本地文件的异或的文件已经修改，暂时没有错误
+添加延时函数 setsocketop 还没有测试
+
+
